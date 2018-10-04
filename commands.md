@@ -52,7 +52,7 @@
 | !afkreset | @user | resets the AFK time of user. |
 | !afktime | @user | shows how long user has been AFK. |
 | !autodisable | — | toggle the autodisable. |
-| !ban | @user | bans user for 1 day. |
+| !ban | @user | Užblokuoti asmėnį  1 dienai. |
 | !blacklist / !bl | blacklistname | add the song to the specified blacklist. |
 | !blinfo | — | get information required to blacklist a song. |
 | !commanddeletion / !cmddeletion / !cmddel | — | toggles if bot commands gets deleted. |
